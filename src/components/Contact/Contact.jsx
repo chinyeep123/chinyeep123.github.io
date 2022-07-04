@@ -7,6 +7,7 @@ import gitHub from "./../../assets/gh.png";
 import instaGram from "./../../assets/in.png";
 import linkedIn from "./../../assets/li.png";
 import medium from "./../../assets/me.png";
+import resume from "./../../assets/resume1.png";
 import web from "./../../assets/web.png";
 import hashnode from "./../../assets/hashnode.png";
 import { useForm, ValidationError } from '@formspree/react';
@@ -68,11 +69,11 @@ function Contact() {
           target="_blank" rel="noreferrer">
           <img src={web} alt='web' loading="lazy"/>
         </a>
-        {/* <a href="https://anandbaraik.hashnode.dev/"
+        <a href="https://drive.google.com/file/d/1tg0ZnVGMIXNi26glARxugfIMModyEMl3/view?usp=sharing"
           className='social-icon'
           target="_blank" rel="noreferrer">
-          <img src={hashnode} alt='hashnode' loading="lazy"/>
-        </a> */}
+          <img src={resume} alt='resume' loading="lazy" width={55}/>
+        </a>
         <a href="https://medium.com/@patrickwanchinyeep"
           className='social-icon'
           target="_blank" rel="noreferrer">
