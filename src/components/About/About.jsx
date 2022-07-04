@@ -9,7 +9,7 @@ function About() {
     <div className='section-container'>
       <Header 
         heading="About Me"
-        subHeading="Full Stack Developer | Blogger">
+        subHeading="PHP Developer | Blogger">
       </Header>
       <div className='about-main'>
         <div className='about-main-left'>
