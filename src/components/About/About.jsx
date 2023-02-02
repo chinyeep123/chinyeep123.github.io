@@ -15,7 +15,7 @@ function About() {
         <div className='about-main-left'>
             <h3 className='about-sub-heading'>Developer</h3>
             <p className='about-sub-heading-details'>
-              I’m a PHP Developer. I'm working under a company who building web application and software for government. I love building software that solves real-world problems, add value to society through technology.
+              I’m a Senior PHP Developer. I'm working under a company who building web application and software for government. I love building software that solves real-world problems, add value to society through technology.
             </p>
             <h3 className='about-sub-heading'>Blogger</h3>
             <p className='about-sub-heading-details'>

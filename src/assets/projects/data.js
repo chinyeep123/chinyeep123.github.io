@@ -1,4 +1,59 @@
-export const projectsData = [{
+export const projectsData = [
+    {
+        projectName: 'Zen2pos',
+        projectDescription: 'This is a SaaS POS System. It build from Laravel and Vue JS',
+        imageUrl: 'https://www.comecodetogether.com/user-images/zen2pos.png',
+        projectUrl: 'http://zen2pos.com/',
+    },
+    {
+        projectName: 'Fission Pay',
+        projectDescription: 'This is a landing page, content is for crytocurrency. It build from HTML & JS',
+        imageUrl: 'https://www.comecodetogether.com/user-images/fissionpay.png',
+        projectUrl: 'https://fissionpay.com/',
+    },
+    {
+        projectName: 'Kincho Tech Landing Page',
+        projectDescription: 'This is company landing page which is build from me. It build from HTML & JS',
+        imageUrl: 'https://www.comecodetogether.com/user-images/kinchotech.png',
+        projectUrl: 'https://kinchotech.com/',
+    },
+    {
+        projectName: 'Kincho Tech WebDev Landing Page',
+        projectDescription: 'This is company web dev service landing page which is build from me. It build from HTML & JS',
+        imageUrl: 'https://www.comecodetogether.com/user-images/kinchotech-webdev.png',
+        projectUrl: 'https://webdev.kinchotech.com/',
+    },
+    {
+        projectName: 'Kincho Tech AppDev Landing Page',
+        projectDescription: 'This is company app dev service landing page which is build from me. It build from HTML & JS',
+        imageUrl: 'https://www.comecodetogether.com/user-images/kinchotech-appdev.png',
+        projectUrl: 'https://appdev.kinchotech.com/',
+    },
+    {
+        projectName: 'Kincho Tech Hosting Landing Page',
+        projectDescription: 'This is company hosting service landing page which is build from me. It build from HTML & JS',
+        imageUrl: 'https://www.comecodetogether.com/user-images/kinchotech-hosting.png',
+        projectUrl: 'https://hosting.kinchotech.com/',
+    },
+    {
+        projectName: 'Kincho Tech Digital Marketing Landing Page',
+        projectDescription: 'This is company digital marketing service landing page which is build from me. It build from HTML & JS',
+        imageUrl: 'https://www.comecodetogether.com/user-images/kinchotech-marketing.png',
+        projectUrl: 'https://digitalmarketing.kinchotech.com/',
+    },
+    {
+        projectName: 'Billing Web App',
+        projectDescription: 'This is a billing web system that allow residences to make payment base on utilities, view statements, view statement detail & view payment history. It build from Laravel and Vue JS',
+        imageUrl: 'https://www.comecodetogether.com/user-images/billing-web-app.png',
+        projectUrl: '#',
+    },
+    {
+        projectName: 'Star Property Virtual Fair',
+        projectDescription: 'This is a Fair which allow customer to visit via virtual. It do have exihibition via virtual, webinar registration, luckydraw & spin, survey form, keyword data search for property & location. It also have some articles related properties.',
+        imageUrl: 'https://www.comecodetogether.com/user-images/smg.png',
+        projectUrl: 'https://staging.2vr360.online/smuphd2021/',
+    },
+    {
         projectName: 'Statement Analyzer Module',
         projectDescription: 'This is a statement analyzer module library that suite to growcrm and also normal laravel, it allow you to do customize in it. It build from Laravel and Vue JS',
         imageUrl: 'https://www.comecodetogether.com/user-images/statement-module.png',

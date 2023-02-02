@@ -24,7 +24,7 @@ class Home extends Component {
                     Welcome to my portfolio!
                 </h1>
                 <p>
-                    This is Patrick Wan, a <u>PHP Developer</u>.
+                    This is Patrick Wan, a <u>Senior PHP Developer</u>.
                 </p>
             </div>
             <div className="header-btns">

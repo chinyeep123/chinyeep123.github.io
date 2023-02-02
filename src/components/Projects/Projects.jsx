@@ -2,7 +2,7 @@ import React from 'react'
 import "./Projects.css";
 import Header from "./../Header/Header.jsx"
 import Footer from "./../Footer/Footer.jsx"
-import {projectsData} from "./../../assets/projectsData";
+import { projectsData } from "../../assets/projects/data";
 import ProjectCard from "./ProjectCard.jsx";
 function Projects() {
   return (

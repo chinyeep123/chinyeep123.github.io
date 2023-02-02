@@ -17,7 +17,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cdchinyeep123.github.io/
+  cd chinyeep123.github.io/
 ```
 
 Run
