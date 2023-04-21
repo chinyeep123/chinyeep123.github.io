@@ -56,6 +56,13 @@ export const projectsData = [
     imageUrl: "https://images.comecodetogether.com/imgs/billing-web-app.png",
     projectUrl: "https://web-app.comecodetogether.com/",
   },
+  // {
+  //   projectName: "Star Property Virtual Fair",
+  //   projectDescription:
+  //     "This is a Fair which allow customer to visit via virtual. It do have exihibition via virtual, webinar registration, luckydraw & spin, survey form, keyword data search for property & location. It also have some articles related properties.",
+  //   imageUrl: "https://images.comecodetogether.com/imgs/smg.png",
+  //   projectUrl: "https://staging.2vr360.online/smuphd2021/",
+  // },
   {
     projectName: "Statement Analyzer Module",
     projectDescription:
