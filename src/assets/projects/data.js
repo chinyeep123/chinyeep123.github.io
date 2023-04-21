@@ -57,13 +57,6 @@ export const projectsData = [
     projectUrl: "https://web-app.comecodetogether.com/",
   },
   {
-    projectName: "Star Property Virtual Fair",
-    projectDescription:
-      "This is a Fair which allow customer to visit via virtual. It do have exihibition via virtual, webinar registration, luckydraw & spin, survey form, keyword data search for property & location. It also have some articles related properties.",
-    imageUrl: "https://images.comecodetogether.com/imgs/smg.png",
-    projectUrl: "https://staging.2vr360.online/smuphd2021/",
-  },
-  {
     projectName: "Statement Analyzer Module",
     projectDescription:
       "This is a statement analyzer module library that suite to growcrm and also normal laravel, it allow you to do customize in it. It build from Laravel and Vue JS",
