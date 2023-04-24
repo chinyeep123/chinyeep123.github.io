@@ -189,18 +189,18 @@ export const projectsData = [
     projectDescription:
       "This is an example wizard form build in Laravel Livewire",
     imageUrl: "https://images.comecodetogether.com/imgs/example-wizard.png",
-    projectUrl: "http://cct.comecodetogether.com/example/wizard",
+    projectUrl: "http://czapp.comecodetogether.com/example/wizard",
   },
   {
     projectName: "Livewire Upload Photo Form",
     projectDescription: "This is a upload form build in Laravel Livewire",
     imageUrl: "https://images.comecodetogether.com/imgs/example-upload.png",
-    projectUrl: "http://cct.comecodetogether.com/example/upload-photo",
+    projectUrl: "http://czapp.comecodetogether.com/example/upload-photo",
   },
   {
     projectName: "Signature Pad",
     projectDescription: "This is a signature pad example with js",
     imageUrl: "https://images.comecodetogether.com/imgs/example-signature.png",
-    projectUrl: "https://cct.comecodetogether.com/example/signature-pad",
+    projectUrl: "https://czapp.comecodetogether.com/example/signature-pad",
   },
 ];
