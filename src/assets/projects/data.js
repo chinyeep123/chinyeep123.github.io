@@ -11,7 +11,7 @@ export const projectsData = [
     projectDescription:
       "This is a landing page, content is for crytocurrency. It build from HTML & JS",
     imageUrl: "https://images.comecodetogether.com/imgs/fissionpay.png",
-    projectUrl: "https://fissionpay.com/",
+    projectUrl: "https://fissionpay.comecodetogether.com/",
   },
   {
     projectName: "Kincho Tech Landing Page",
