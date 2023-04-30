@@ -118,7 +118,7 @@ export const projectsData = [
     projectDescription:
       "It is an unity apps upload images, gallery site. It allow user to search their code that given by the apps, so user can share to facebook or email to itself.",
     imageUrl: "https://images.comecodetogether.com/imgs/carlsberg-cny.jpg",
-    projectUrl: "https://carlsbergcny2019.my/",
+    projectUrl: "https://carlsberg-cny.comecodetogether.com/",
   },
   {
     projectName: "Carlsberg Golf Classic Win Wheel Lucky Draw",
@@ -126,42 +126,42 @@ export const projectsData = [
       "This is a registration form with a luckydraw win wheel. The admin will create an event for every luckydraw. Admin can control the winner base on the percentage.",
     imageUrl:
       "https://images.comecodetogether.com/imgs/carlsberg-win-wheel.jpg",
-    projectUrl: "https://carlsberggolfclassic.com.my/home/9xmt6",
+    projectUrl: "https://carlsberg-luckydraw.comecodetogether.com/",
   },
   {
     projectName: "Carlsberg E-Shop",
     projectDescription:
       "This is a E-Commerce Website with reporting. All of the flow have been done. It left payment gateway.",
     imageUrl: "https://images.comecodetogether.com/imgs/carlsberg-eshop.jpg",
-    projectUrl: "https://shop.probablythebestbrewerytour.com.my/",
+    projectUrl: "https://carlsberg-eshop.comecodetogether.com/",
   },
   {
     projectName: "Carlsberg Top Ten Charity",
     projectDescription: "This is a registration form with reporting site.",
     imageUrl:
       "https://images.comecodetogether.com/imgs/carlsberg-top-ten-charity.jpg",
-    projectUrl: "https://tten.my/",
+    projectUrl: "https://top-ten.comecodetogether.com/",
   },
   {
     projectName: "BMW Road Show Site",
     projectDescription:
       "It is an unity apps upload images, gallery site. It allow user to search their code that given by the apps, so user can share to facebook or email to itself. Example code : BMW3SERIES00246, BMW3SERIES00245",
     imageUrl: "https://images.comecodetogether.com/imgs/bmw-road-show.jpg",
-    projectUrl: "https://vfie.my/",
+    projectUrl: "https://event-bmw.comecodetogether.com/",
   },
   {
     projectName: "Packist.com",
     projectDescription:
       "It is a travel platform for user to book travel package and flight.",
     imageUrl: "https://images.comecodetogether.com/imgs/packist.jpg",
-    projectUrl: "http://packist.com/",
+    projectUrl: "https://packist.comecodetogether.com/",
   },
   {
     projectName: "GetPackn",
     projectDescription:
       "It is a travel platform for user to book travel package and flight. (only for Australia package)",
     imageUrl: "https://images.comecodetogether.com/imgs/getpackn.jpg",
-    projectUrl: "http://getpackn.com/",
+    projectUrl: "https://getpackn.comecodetogether.com/",
   },
   {
     projectName: "Sureplify",
