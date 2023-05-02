@@ -203,4 +203,11 @@ export const projectsData = [
     imageUrl: "https://images.comecodetogether.com/imgs/example-signature.png",
     projectUrl: "https://czapp.comecodetogether.com/example/signature-pad",
   },
+  {
+    projectName: "Simple Import",
+    projectDescription:
+      "This is an example import <br/><b>Login</b><br/>username: admin<br/>password: 123456",
+    imageUrl: "https://images.comecodetogether.com/imgs/sample-import.png",
+    projectUrl: "https://simple-import.comecodetogether.com/",
+  },
 ];
