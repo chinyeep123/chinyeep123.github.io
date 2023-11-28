@@ -25,6 +25,8 @@ Run
 ```bash
   npm install
   yarn start
+
+  npm run deploy - if moodify any files
 ```
 
 ## Screenshot

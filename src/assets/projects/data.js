@@ -4,7 +4,7 @@ export const projectsData = [
     projectDescription:
       "This is a SaaS POS System. It build from Laravel and Vue JS",
     imageUrl: "https://images.comecodetogether.com/imgs/zen2pos.png",
-    projectUrl: "http://zen2pos.com/",
+    projectUrl: "https://zen2pos.comecodetogether.com/",
   },
   {
     projectName: "Fission Pay",
